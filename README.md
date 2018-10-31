@@ -18,7 +18,7 @@
 
 1 -     Na pasta: `C:\Users<SEU USUARIO>\Saved Games\DCS.openbeta"`
 
-2 -     Destro da raiz do DCS(SAVED GAMES), va na pasta `\Config\Input`
+2 -     Dentro da raiz do DCS(SAVED GAMES), va na pasta `\Config\Input`
 
 3 -     Escolha o modulo que foi modificado
 

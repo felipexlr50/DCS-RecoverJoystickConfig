@@ -7,9 +7,9 @@
 
 2 -     Abra o CMD (Prompt de comando)
 
-3 -     Escreva no terminal: `changeHardwareId.exe <LOCAL DA PASTA SAVED GAMES DCS (COM ASPAS DUPLA)> <ID DO SEU NOVO JOYSTICK>`
+3 -     Escreva no terminal: `python changeHardwareId.py <LOCAL DA PASTA SAVED GAMES DCS (COM ASPAS DUPLA)> <ID DO SEU NOVO JOYSTICK>`
 
-4 -     Exemplo: `changeHardwareId.exe "C:\Users\felip\Saved Games\DCS.openbeta" B13BE940-DAA6-11e8-8001-444553540000`
+4 -     Exemplo: `python changeHardwareId.py "C:\Users\felip\Saved Games\DCS.openbeta" B13BE940-DAA6-11e8-8001-444553540000`
 
 
 ## COMO PEGAR O ID DO JOYSTICK
